@@ -6,7 +6,7 @@
 
 body {
     padding-top: 50px;
-    background-image: url("./avatar.jpg");
+    background-image: url("./avatar.png");
     background-size: cover;
     background-position: center center;
     display: flex;

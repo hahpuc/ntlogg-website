@@ -25,6 +25,10 @@ img {
     border-radius: 50%;
   }
 
+.image-size { 
+    margin: 5rem 2rem;
+}
+
 h1 {
     font-weight: normal;
     font-size: 4rem;
